@@ -1,0 +1,15 @@
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_4\HomeWork_4\challenge_3_Massiv\obj\Debug\net7.0\challenge_3_Massiv.csproj.AssemblyReference.cache
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_4\HomeWork_4\challenge_3_Massiv\obj\Debug\net7.0\challenge_3_Massiv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_4\HomeWork_4\challenge_3_Massiv\obj\Debug\net7.0\challenge_3_Massiv.AssemblyInfoInputs.cache
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_4\HomeWork_4\challenge_3_Massiv\obj\Debug\net7.0\challenge_3_Massiv.AssemblyInfo.cs
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_4\HomeWork_4\challenge_3_Massiv\obj\Debug\net7.0\challenge_3_Massiv.csproj.CoreCompileInputs.cache
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_4\HomeWork_4\challenge_3_Massiv\bin\Debug\net7.0\challenge_3_Massiv.exe
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_4\HomeWork_4\challenge_3_Massiv\bin\Debug\net7.0\challenge_3_Massiv.deps.json
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_4\HomeWork_4\challenge_3_Massiv\bin\Debug\net7.0\challenge_3_Massiv.runtimeconfig.json
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_4\HomeWork_4\challenge_3_Massiv\bin\Debug\net7.0\challenge_3_Massiv.dll
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_4\HomeWork_4\challenge_3_Massiv\bin\Debug\net7.0\challenge_3_Massiv.pdb
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_4\HomeWork_4\challenge_3_Massiv\obj\Debug\net7.0\challenge_3_Massiv.dll
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_4\HomeWork_4\challenge_3_Massiv\obj\Debug\net7.0\refint\challenge_3_Massiv.dll
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_4\HomeWork_4\challenge_3_Massiv\obj\Debug\net7.0\challenge_3_Massiv.pdb
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_4\HomeWork_4\challenge_3_Massiv\obj\Debug\net7.0\challenge_3_Massiv.genruntimeconfig.cache
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_4\HomeWork_4\challenge_3_Massiv\obj\Debug\net7.0\ref\challenge_3_Massiv.dll
